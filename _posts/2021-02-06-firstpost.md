@@ -1,5 +1,5 @@
 ---
-typora-root-url: https://Hanalia.github.io/blog/_posts
+typora-root-url: https://Hanalia.github.io/blog/
 title:  "마찰을 최소화하는 시스템"
 date:   2021-02-06
 categories: lifestyle
@@ -98,7 +98,7 @@ tags: [블로그,처음]
 
 알프레드를 이용하면 4번의 타건으로 앱을 실행할 수 있다 (cmd+space+t+y)
 
-![2021-02-06 10.16.18](/../../../../../../assets/images/2021-02-06%2010.16.18.gif)
+![2021-02-06 10.16.18](/../../../../../assets/images/2021-02-06%2010.16.18.gif)
 
 ### 꾸준히 쓰기
 
@@ -107,8 +107,6 @@ tags: [블로그,처음]
 하루아침에 끝나는 것이 아니라
 
 하나의 습관이 되자.
-
-
 
 
 
