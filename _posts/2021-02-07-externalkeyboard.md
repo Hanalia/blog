@@ -1,5 +1,5 @@
 ---
-typora-root-url: https://Hanalia.github.io/_posts
+typora-root-url: https://Hanalia.github.io/blog/_posts
 title:  "[M1] Hammerspoon에서 한영키를 키보드별로 설정하기"
 date:   2021-02-07
 excerpt: 간단한 스크립트를 통해서 USB에 반응하는 키전환 설정하기
