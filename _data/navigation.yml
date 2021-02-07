@@ -1,0 +1,37 @@
+# main links
+main:
+  - title: Recents
+    url: /
+  - title: "About"
+    url: "/about"
+  - title: "Tags"
+    url: /tags/
+  - title: "Categories"
+    url: /categories/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+
+
+
+posts:
+  - title: Work
+    url: /categories/#work
+  - title: Lifestyle
+    url: /categories/#lifestyle
+  - title: Favorites
+    url: /categories/#favorites
+  - title: Programming
+    children:
+      - title: "Python"
+        url: /categories/#python
+      - title: "excel/vba"
+        url: /categories/#vba
+      - title: "Etc"
+        url: /categories/#programming
