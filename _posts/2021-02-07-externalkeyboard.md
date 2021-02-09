@@ -119,12 +119,13 @@ tags: [M1,IT,Mac Os]
 
 
 ````lua
--- 아무런 디바이스가 없을 때의 디폴트 키전환 값
-local FRemap = require('foundation_remapping') local remapper = FRemap.new() remapper:remap('rcmd', 'f18') remapper:register()
+
 
 usbWatcher = nil
 -- HID Keyboard 있는 위치에 본인의 디바이스 명을 기입
 function usbDeviceCallback(data)
+-- 아무런 디바이스가 없을 때의 디폴트 키전환 값
+    local FRemap = require('foundation_remapping') local remapper = FRemap.new() remapper:remap('rcmd', 'f18') remapper:register()
     if (data["productName"] == "HID Keyboard") then
         if (data["eventType"] == "added") then --디바이스를 연결했을 때의 키전환 (lcmd -> f18)
             local FRemap = require('foundation_remapping') local remapper = FRemap.new() remapper:remap('lcmd', 'f18') remapper:register()
