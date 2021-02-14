@@ -16,7 +16,7 @@ tags: [M1,IT,Mac Os]
 
 
 
-첫번째 애플 노트북으로 M1 맥북 에어를 선택했다.
+첫번째 애플 노트북으로 `M1 맥북 에어`를 선택했다.
 
 
 
@@ -62,7 +62,7 @@ tags: [M1,IT,Mac Os]
 
 
 
-다행이도 구글링을 해보니 Karbiner-Elements라는 앱과 M1칩셋 간에 충돌 현상으로 인해서 이런 오류가 발생했던 것이다.
+다행이도 구글링을 해보니 `Karbiner-Elements`라는 앱과 M1칩셋 간에 충돌 현상으로 인해서 이런 오류가 발생했던 것이다.
 
 문제를 해결하기 위해서는 이 앱을 지우는 것 밖에 없었다...
 
@@ -84,7 +84,7 @@ tags: [M1,IT,Mac Os]
 
 많은 M1 유저들이 동일한 현상을 겪었고,
 
-누구는 이에 대한 대안으로 Hammerspoon을 추천했다. [링크](https://deftkang.tistory.com/192)
+누구는 이에 대한 대안으로 `Hammerspoon`을 추천했다. [링크](https://deftkang.tistory.com/192)
 
 
 
