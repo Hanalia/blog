@@ -1,0 +1,123 @@
+---
+typora-root-url: https://Hanalia.github.io/blog/_posts
+title:  "Finite Game과 Infinite Game, 나의 선택은?"
+date:   2021-03-19
+excerpt: 나의 관점에 따라 게임의 룰이 완전히 달라진다
+categories: Insights
+tags: [Life,Mindset]
+
+
+
+---
+
+
+
+얼마 전에 정말 인상적인 영상을 접햇다.
+
+
+
+Simon Sinek의 Infinite Game이라는 영상이다.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tye525dkfi8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+많은 영감을 준 영상이고, 현재 내 상황을 어떤 관점으로 바라보는지에 대해서 다시한번 뒤돌아보게 되었다.
+
+
+
+## Finite Game과 Infinite Game
+
+Finite (유한) Game은 말 그대로 승자와 패자가 있고 게임이 종료되는 시점이 명확한 게임이다.
+
+게임의 목적은 분명하다. 승자와 패자를 나누는 것이 게임의 궁극적인 목적이다. 
+
+축구, 배구 등 스포츠 시합이 대표적인 Finite Game이다.
+
+정해진 룰에 따라서 두 선수는 게임을 진행하고, 승자와 패자가 결정된다.
+
+반면 infinite Game에서. 승자와 패자의 결정은 별로 중요하지 않다.
+
+playing the game, 즉 게임을 하는 것 자체가 중요한 것이 infinite game이다.
+
+세상에는 이렇게 양상이 전혀 다른 두 가지 게임이 있다.
+
+
+
+## Finite player 와 infinite player 가 만나는 순간
+
+2가지 유형의 게임에서, 총 3가지 유형의 상호작용이 존재한다.
+
+첫째, Finite Player와 Finite Player가 만난다.
+
+이 경우는 간단하게 서로가 Finite Game을 진행하면 된다.
+
+
+
+둘째, infinite Player와 Infinite Player가 만난다.
+
+이 경우도 둘은 게임을 Infinite Game으로 인식하고, 승패보다는 게임을 하는 것 자체에 관심을 가지고 게임을 진행하면 된다.
+
+
+
+문제가 되는 케이스는 마지막 케이스, 즉 Finite player와 Infinite player 가 만나는 경우다.
+
+같은 상황이더라도 두 플레이어가 전혀 다른 관점으로 현실을 인식하고, 게임을 진행하게 될 수 있다.
+
+한쪽은 빨리. 승자와 패자를 결정짓는 데 혈안이 되어 있는 반면, 다른 쪽은 게임 자체를 계속 이어가는 것에만 집중한다.
+
+
+
+이 마지막 케이스에 해당하는 사례로 베트남전쟁에서 미군과 베트남군을 들 수 있다.
+
+미군은 어느 전쟁과 마찬가지로, 전쟁에서 승패를 확정하고 베트남군의 항복을 받아내는 데 모든 에너지를 쏟아부었다.
+
+미군은 finite player였다. 미군에게 있어서는 베트남군을 이기는 것이 가장 중요한 과제였다.
+
+반면 베트남군은 단기간에 어느 편이 이기고 지고의 문제에는 관심이 없었다. 베트남군한테는 계속해서 게임을 이어나가고 생존한는 것이 중요했다. 베트남군은 infinite player였다.
+
+미군과 베트남군은 베트남전쟁을 어떤 게임으로 바라보는지가 완전히 달랐다.
+
+그 결과, finite player였던 미군은 결국 모든 개별 전투에서 승리했음에 불구하고 베트남에서 철수하게 되었다.
+
+
+
+Finite player와 infinite player가 만나면 어떻게 되는지 보여주는 대표적인 사례다.
+
+
+
+
+
+## 귀멸의 칼날의 인기, 그리고 '너의 이름은' 감독 신카이 마코토
+
+최근 귀멸의 칼날 극장판의 인기가 엄청 뜨겁다.
+
+흥행실적을 보니 너의 이름은, 센과 치히로의 행방불명을 제치고 일본 애니메이션 1위로 등극했다.
+
+''너의 이름은''은 원래 2위였다가 귀멸의 칼날의 등장으로 3위로 떨어졌다.
+
+귀멸의 칼날의 흥행에 대해서 '너의 이름은' 감독 신카이 마코토의 트위터가 인상적이었다.
+
+
+
+> 엣, 벌써!?
+>
+> 분하다고 생각하면서도 기록이 항상 덮어쓰여 가는 것도 엔터테인먼트에서 가진 건전성이네요.
+>
+> 저도 좋은 영화를 만들 수 있도록, 적어도 나날이 노력하겠습니다
+
+![Screen Shot 2021-03-20 at 11.27.01 AM](https://i.loli.net/2021/03/20/oX4PamUIcKkRtZg.png)
+
+이 트위터를 보고 신카이 마코토 감독이 infinite player라는 생각이 들었다.
+
+Finite player는 승자와 패자의 논리로 경쟁자를 무너뜨리는 데 집중한다.
+
+반면 infinite player는 선의의 경쟁 속에서 다른 플레이어들이 본인보다 앞서나갈 때가 있어도 그냥 그러려니 한다.
+
+원래 infinite game을 하다보면 어떨 때는 내가 앞서고, 어떨 때는 내가 잠깐 뒤에 있을 수가 있기 때문이다.
+
+신카이 마코토의 차기 작품이 기대된다.
+
+ 
+
+나는 finite player인가, infinite player인가?
+
+나는 지금 상황을 finite game으로 인식하고 있는가, infinite game으로 인식하고 있는가?
